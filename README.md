@@ -6,7 +6,7 @@ $ curl -XPOST -H "Content-Type:application/json" -d '{"query": "022000159359", "
 
 ## To Run React Server
 $ npm install\
-$ npm start\
+$ npm start
 
 Connect to localhost using port 3000.
 
