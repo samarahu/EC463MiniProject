@@ -10,3 +10,6 @@ $ npm start
 
 Connect to localhost using port 3000.
 
+## Personal FDC API Key
+xPgFESAz09jEJa1gt2gJdomzjJU7en8CGCQQNA5a
+
