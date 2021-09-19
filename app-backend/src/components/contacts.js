@@ -1,7 +1,7 @@
 // src/components/contacts.js
 
 import React from 'react'
-
+// Name: Nutrilist?
 const Contacts = ({ contacts }) => {
   return (
     <div>

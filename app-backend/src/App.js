@@ -1,5 +1,18 @@
 import React, {Component} from 'react';
+import Webcam from 'react-webcam';
 import Contacts from './components/contacts';
+
+/*const WebcamComponent = () => <Webcam />;
+
+class WebcamCapture extends React.Component {
+    render() {
+      const videoConstraints = {
+        facingMode: { exact: "environment" }
+      };
+  
+      return <Webcam videoConstraints={videoConstraints} />;
+    }
+}*/
 
 class App extends Component {
     render() {
