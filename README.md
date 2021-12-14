@@ -41,7 +41,7 @@ In order to query for nutritional information, the FoodData Central API, which "
 2. By starting Expo, a QR code will be provided that can be scanned using the Expo Go app to pull up the NutriList application on a mobile device.
    Run the following:
    
-       $ expo start
+       expo start
 3. Enter the FDC ID of the food you want to find the information for.
 4. Enter the number of servings.
 5. Press "FIND THE TOTAL" and observe the popup. This will tell you the total number of carbs in the meal.
