@@ -9,7 +9,7 @@ NutriList was developed using React Native and tested with Expo Go. React Native
 
 In order to query for nutritional information, the FoodData Central API, which "provides REST access to FoodData Central (FDC)" ([1]) was used. The code for this is shown in Figure 2.
 <p align="center">
-	<img src="./images/Capture.PNG" width="35%" />
+	<img src="./Images/Capture.PNG" width="35%" />
 </p>
 <p align="center">
 	<strong>Figure 2.</strong> The FDC ID is inserted into the URL, which is then fetched via an API call.
