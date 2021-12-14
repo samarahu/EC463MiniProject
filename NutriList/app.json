@@ -1,7 +1,10 @@
 {
+  "name": "NutriList",
+  "displayName": "NutriList",
   "expo": {
     "name": "NutriList",
     "slug": "NutriList",
+    "sdkVersion": "43.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
