@@ -5,21 +5,21 @@ Created by Samarah Uriarte and Jaskaran Gahunia.
 We present to you NutriList, a mobile application that was created for the CE software mini-project for BU's ENG senior design course. Featuring a simple design and highly intuitive UI, as shown in Figure 1, NutriList has a single page that can be used to find the total number of carbohydrates in a meal. The user must enter the FDC ID of the food they are attempting to get nutritional information on, as well as the number of servings, with an example shown in Figure 2. The FDC ID can be found through the website and the serving size can be found on the item packaging by the user. Then, the user can press "FIND THE TOTAL" and a popup will be shown that provides the total carb amount. Figure 3 illustrates this popup as a continuation from Figure 2.
 
 <p align="center">
-	<img src="./Images/screenshot1.jpg" height="35%" />
+	<img src="./Images/screenshot1.jpg" width="20%" />
 </p>
 <p align="center">
 	<strong>Figure 1.</strong> Main page of NutriList app.
 </p>
 <br />
 <p align="center">
-	<img src="./Images/screenshot2.jpg" height="35%" />
+	<img src="./Images/screenshot2.jpg" width="20%" />
 </p>
 <p align="center">
 	<strong>Figure 1.</strong> An example of an FDC ID, corresponding to an apple, having been entered, as well as a serving of 1.
 </p>
 <br />
 <p align="center">
-	<img src="./Images/screenshot3.jpg" height="35%" />
+	<img src="./Images/screenshot3.jpg" width="20%" />
 </p>
 <p align="center">
 	<strong>Figure 3.</strong> The result of the previous example after the "FIND THE TOTAL" button is pressed.
