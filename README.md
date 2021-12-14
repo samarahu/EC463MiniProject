@@ -7,9 +7,13 @@ We present to you NutriList, a mobile application that was created for the CE so
 ## Design
 NutriList was developed using React Native and tested with Expo Go. React Native was chosen because it is optimal for quickly building mobile applications and provides a framework with many components that can easily be integrated into projects for a more interactive UI. Additionally, testing was simple due to the features Expo Go offers through its mobile application. Using the Expo environment, the project can easily be pulled up on a personal mobile device through a QR code that is provided after running "expo start" in the project directory.
 
-In order to query for nutritional information, the FoodData Central API, which "provides REST access to FoodData Central (FDC)" ([1]) was used.
-
-#### The app of interest is NutriList. 'App-backend' includes an example React Server with a REST API call that was used for reference.
+In order to query for nutritional information, the FoodData Central API, which "provides REST access to FoodData Central (FDC)" ([1]) was used. The code for this is shown in Figure 2.
+<p align="center">
+	<img src="./images/Capture.PNG" width="35%" />
+</p>
+<p align="center">
+	<strong>Figure 2.</strong> The FDC ID is inserted into the URL, which is then fetched via an API call.
+</p>
 
 ## To Run React Server with Expo Go
 1. Navigate to the EC463MiniProject/NutriList/ directory.
